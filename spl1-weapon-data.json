@@ -1,0 +1,625 @@
+[
+    [
+        {
+            "name": "ボールドマーカー",
+            "type": "シューター",
+            "subName": "ジャンプビーコン",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ボールドマーカーネオ",
+            "type": "シューター",
+            "subName": "キューバンボム",
+            "specialName": "ダイオウイカ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ボールドマーカー7",
+            "type": "シューター",
+            "subName": "スプラッシュボム",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "わかばシューター",
+            "type": "シューター",
+            "subName": "スプラッシュボム",
+            "specialName": "バリア",
+            "specialDown": "60%"
+        },
+        {
+            "name": "もみじシューター",
+            "type": "シューター",
+            "subName": "ポイズンボール",
+            "specialName": "スーパーセンサー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スプラシューター",
+            "type": "シューター",
+            "subName": "クイックボム",
+            "specialName": "クイックボムラッシュ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スプラシューターコラボ",
+            "type": "シューター",
+            "subName": "キューバンボム",
+            "specialName": "スーパーショット",
+            "specialDown": "75%"
+        },
+        {
+            "name": "スプラシューターワサビ",
+            "type": "シューター",
+            "subName": "スプラッシュボム",
+            "specialName": "トルネード",
+            "specialDown": "60%"
+        },
+        {
+            "name": ".52ガロン",
+            "type": "シューター",
+            "subName": "スプラッシュシールド",
+            "specialName": "メガホンレーザー",
+            "specialDown": "60%"
+        },
+        {
+            "name": ".52ガロンデコ",
+            "type": "シューター",
+            "subName": "チェイスボム",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "プロモデラーMG",
+            "type": "シューター",
+            "subName": "チェイスボム",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "プロモデラーRG",
+            "type": "シューター",
+            "subName": "トラップ",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "プロモデラーPG",
+            "type": "シューター",
+            "subName": "クイックボム",
+            "specialName": "ダイオウイカ",
+            "specialDown": "60%"
+        },
+        {
+            "name": "ジェットスイーパー",
+            "type": "シューター",
+            "subName": "スプラッシュシールド",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ジェットスイーパーカスタム",
+            "type": "シューター",
+            "subName": "クイックボム",
+            "specialName": "ダイオウイカ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "プライムシューター",
+            "type": "シューター",
+            "subName": "スプラッシュボム",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "プライムシューターコラボ",
+            "type": "シューター",
+            "subName": "ポイントセンサー",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "プライムシューターベリー",
+            "type": "シューター",
+            "subName": "キューバンボム",
+            "specialName": "キューバンボムラッシュ",
+            "specialDown": "60%"
+        },
+        {
+            "name": ".96ガロン",
+            "type": "シューター",
+            "subName": "スプリンクラー",
+            "specialName": "スーパーセンサー",
+            "specialDown": "40%"
+        },
+        {
+            "name": ".96ガロンデコ",
+            "type": "シューター",
+            "subName": "スプラッシュシールド",
+            "specialName": "ダイオウイカ",
+            "specialDown": "75%"
+        },
+        {
+            "name": "デュアルスイーパー",
+            "type": "シューター",
+            "subName": "スプラッシュボム",
+            "specialName": "スーパーセンサー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "デュアルスイーパーカスタム",
+            "type": "シューター",
+            "subName": "ジャンプビーコン",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "N-ZAP85",
+            "type": "シューター",
+            "subName": "スプラッシュボム",
+            "specialName": "スーパーセンサー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "N-ZAP89",
+            "type": "シューター",
+            "subName": "スプリンクラー",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "N-ZAP83",
+            "type": "シューター",
+            "subName": "ポイントセンサー",
+            "specialName": "ダイオウイカ",
+            "specialDown": "60%"
+        },
+        {
+            "name": "シャープマーカー",
+            "type": "シューター",
+            "subName": "キューバンボム",
+            "specialName": "キューバンボムラッシュ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "シャープマーカーネオ",
+            "type": "シューター",
+            "subName": "クイックボム",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "L3リールガン",
+            "type": "シューター",
+            "subName": "ポイズンボール",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "L3リールガンD",
+            "type": "シューター",
+            "subName": "クイックボム",
+            "specialName": "ダイオウイカ",
+            "specialDown": "60%"
+        },
+        {
+            "name": "H3リールガン",
+            "type": "シューター",
+            "subName": "キューバンボム",
+            "specialName": "スーパーセンサー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "H3リールガンD",
+            "type": "シューター",
+            "subName": "ポイントセンサー",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "H3リールガンチェリー",
+            "type": "シューター",
+            "subName": "スプラッシュシールド",
+            "specialName": "バリア",
+            "specialDown": "40%"
+        }
+    ],
+    [
+        {
+            "name": "ホットブラスター",
+            "type": "ブラスター",
+            "subName": "ポイズンボール",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ホットブラスターカスタム",
+            "type": "ブラスター",
+            "subName": "ポイントセンサー",
+            "specialName": "バリア",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ラピッドブラスター",
+            "type": "ブラスター",
+            "subName": "トラップ",
+            "specialName": "バリア",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ラピッドブラスターデコ",
+            "type": "ブラスター",
+            "subName": "キューバンボム",
+            "specialName": "キューバンボムラッシュ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ノヴァブラスター",
+            "type": "ブラスター",
+            "subName": "トラップ",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ノヴァブラスターネオ",
+            "type": "ブラスター",
+            "subName": "スプラッシュボム",
+            "specialName": "スプラッシュボムラッシュ",
+            "specialDown": "75%"
+        },
+        {
+            "name": "ロングブラスター",
+            "type": "ブラスター",
+            "subName": "スプラッシュシールド",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ロングブラスターカスタム",
+            "type": "ブラスター",
+            "subName": "スプラッシュボム",
+            "specialName": "ダイオウイカ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ロングブラスターネクロ",
+            "type": "ブラスター",
+            "subName": "クイックボム",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "Rブラスターエリート",
+            "type": "ブラスター",
+            "subName": "チェイスボム",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "Rブラスターエリートデコ",
+            "type": "ブラスター",
+            "subName": "ポイズンボール",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        }
+    ],
+    [
+        {
+            "name": "スプラローラー",
+            "type": "ローラー",
+            "subName": "キューバンボム",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スプラローラーコラボ",
+            "type": "ローラー",
+            "subName": "ジャンプビーコン",
+            "specialName": "ダイオウイカ",
+            "specialDown": "60%"
+        },
+        {
+            "name": "スプラローラーコロコロ",
+            "type": "ローラー",
+            "subName": "スプラッシュシールド",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ダイナモローラー",
+            "type": "ローラー",
+            "subName": "スプリンクラー",
+            "specialName": "スーパーセンサー",
+            "specialDown": "75%"
+        },
+        {
+            "name": "ダイナモローラーテスラ",
+            "type": "ローラー",
+            "subName": "スプラッシュボム",
+            "specialName": "トルネード",
+            "specialDown": "75%"
+        },
+        {
+            "name": "ダイナモローラーバーンド",
+            "type": "ローラー",
+            "subName": "チェイスボム",
+            "specialName": "メガホンレーザー",
+            "specialDown": "60%"
+        },
+        {
+            "name": "カーボンローラー",
+            "type": "ローラー",
+            "subName": "クイックボム",
+            "specialName": "スーパーショット",
+            "specialDown": "60%"
+        },
+        {
+            "name": "カーボンローラーデコ",
+            "type": "ローラー",
+            "subName": "チェイスボム",
+            "specialName": "チェイスボムラッシュ",
+            "specialDown": "40%"
+        }
+    ],
+    [
+        {
+            "name": "パブロ",
+            "type": "フデ",
+            "subName": "スプリンクラー",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "パブロ・ヒュー",
+            "type": "フデ",
+            "subName": "トラップ",
+            "specialName": "バリア",
+            "specialDown": "40%"
+        },
+        {
+            "name": "パーマネント・パブロ",
+            "type": "フデ",
+            "subName": "スプラッシュボム",
+            "specialName": "ダイオウイカ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ホクサイ",
+            "type": "フデ",
+            "subName": "ジャンプビーコン",
+            "specialName": "ダイオウイカ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ホクサイ・ヒュー",
+            "type": "フデ",
+            "subName": "スプラッシュボム",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        }
+    ],
+    [
+        {
+            "name": "スプラチャージャー",
+            "type": "チャージャー",
+            "subName": "スプラッシュボム",
+            "specialName": "スプラッシュボムラッシュ",
+            "specialDown": "75%"
+        },
+        {
+            "name": "スプラチャージャーワカメ",
+            "type": "チャージャー",
+            "subName": "スプリンクラー",
+            "specialName": "メガホンレーザー",
+            "specialDown": "60%"
+        },
+        {
+            "name": "スプラスコープ",
+            "type": "チャージャー",
+            "subName": "スプラッシュボム",
+            "specialName": "スプラッシュボムラッシュ",
+            "specialDown": "75%"
+        },
+        {
+            "name": "スプラスコープワカメ",
+            "type": "チャージャー",
+            "subName": "スプリンクラー",
+            "specialName": "メガホンレーザー",
+            "specialDown": "60%"
+        },
+        {
+            "name": "スプラチャージャーベントー",
+            "type": "チャージャー",
+            "subName": "スプラッシュシールド",
+            "specialName": "スーパーセンサー",
+            "specialDown": "60%"
+        },
+        {
+            "name": "スプラスコープベントー",
+            "type": "チャージャー",
+            "subName": "スプラッシュシールド",
+            "specialName": "スーパーセンサー",
+            "specialDown": "60%"
+        },
+        {
+            "name": "スクイックリンα",
+            "type": "チャージャー",
+            "subName": "ポイントセンサー",
+            "specialName": "バリア",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スクイックリンβ",
+            "type": "チャージャー",
+            "subName": "トラップ",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スクイックリンγ",
+            "type": "チャージャー",
+            "subName": "キューバンボム",
+            "specialName": "ダイオウイカ",
+            "specialDown": "60%"
+        },
+        {
+            "name": "リッター3K",
+            "type": "チャージャー",
+            "subName": "クイックボム",
+            "specialName": "スーパーセンサー",
+            "specialDown": "60%"
+        },
+        {
+            "name": "リッター3Kカスタム",
+            "type": "チャージャー",
+            "subName": "ジャンプビーコン",
+            "specialName": "ダイオウイカ",
+            "specialDown": "60%"
+        },
+        {
+            "name": "3Kスコープ",
+            "type": "チャージャー",
+            "subName": "クイックボム",
+            "specialName": "スーパーセンサー",
+            "specialDown": "60%"
+        },
+        {
+            "name": "3Kスコープカスタム",
+            "type": "チャージャー",
+            "subName": "ジャンプビーコン",
+            "specialName": "ダイオウイカ",
+            "specialDown": "60%"
+        },
+        {
+            "name": "14式竹筒銃・甲",
+            "type": "チャージャー",
+            "subName": "スプラッシュシールド",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "14式竹筒銃・乙",
+            "type": "チャージャー",
+            "subName": "ポイズンボール",
+            "specialName": "スーパーセンサー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "14式竹筒銃・丙",
+            "type": "チャージャー",
+            "subName": "クイックボム",
+            "specialName": "トルネード",
+            "specialDown": "75%"
+        }
+    ],
+    [
+        {
+            "name": "バケットスロッシャー",
+            "type": "スロッシャー",
+            "subName": "クイックボム",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "バケットスロッシャーデコ",
+            "type": "スロッシャー",
+            "subName": "スプラッシュシールド",
+            "specialName": "ダイオウイカ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "バケットスロッシャーソーダ",
+            "type": "スロッシャー",
+            "subName": "スプラッシュボム",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ヒッセン",
+            "type": "スロッシャー",
+            "subName": "ポイズンボール",
+            "specialName": "バリア",
+            "specialDown": "60%"
+        },
+        {
+            "name": "ヒッセン・ヒュー",
+            "type": "スロッシャー",
+            "subName": "チェイスボム",
+            "specialName": "スーパーセンサー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スクリュースロッシャー",
+            "type": "スロッシャー",
+            "subName": "スプラッシュボム",
+            "specialName": "スプラッシュボムラッシュ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スクリュースロッシャーネオ",
+            "type": "スロッシャー",
+            "subName": "ポイントセンサー",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        }
+    ],
+    [
+        {
+            "name": "バレルスピナー",
+            "type": "スピナー",
+            "subName": "スプラッシュシールド",
+            "specialName": "トルネード",
+            "specialDown": "40%"
+        },
+        {
+            "name": "バレルスピナーデコ",
+            "type": "スピナー",
+            "subName": "ポイントセンサー",
+            "specialName": "ダイオウイカ",
+            "specialDown": "60%"
+        },
+        {
+            "name": "バレルスピナーリミックス",
+            "type": "スピナー",
+            "subName": "スプリンクラー",
+            "specialName": "メガホンレーザー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スプラスピナー",
+            "type": "スピナー",
+            "subName": "キューバンボム",
+            "specialName": "スーパーショット",
+            "specialDown": "40%"
+        },
+        {
+            "name": "スプラスピナーコラボ",
+            "type": "スピナー",
+            "subName": "ポイズンボール",
+            "specialName": "バリア",
+            "specialDown": "75%"
+        },
+        {
+            "name": "スプラスピナーリペア",
+            "type": "スピナー",
+            "subName": "クイックボム",
+            "specialName": "クイックボムラッシュ",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ハイドラント",
+            "type": "スピナー",
+            "subName": "スプラッシュボム",
+            "specialName": "スーパーセンサー",
+            "specialDown": "40%"
+        },
+        {
+            "name": "ハイドラントカスタム",
+            "type": "スピナー",
+            "subName": "スプリンクラー",
+            "specialName": "バリア",
+            "specialDown": "40%"
+        }
+    ]
+]
