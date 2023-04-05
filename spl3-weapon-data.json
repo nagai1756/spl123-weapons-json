@@ -117,7 +117,7 @@
             "name": ".96ガロンデコ",
             "subName": "スプラッシュシールド",
             "specialName": "テイオウイカ",
-            "specialPoint": 190
+            "specialPoint": 210
         },
         {
             "type": "シューター",
@@ -182,7 +182,7 @@
             "name": "カーボンローラーデコ",
             "subName": "クイックボム",
             "specialName": "ウルトラショット",
-            "specialPoint": 200
+            "specialPoint": 190
         },
         {
             "type": "ローラー",
