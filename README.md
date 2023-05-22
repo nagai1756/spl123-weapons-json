@@ -60,6 +60,7 @@
 <div id="struct">
 
 ## ファイルの構造について
+* spl2,3については "specialDown" → "specialPoint"としています。
 ```json
 [
     [
